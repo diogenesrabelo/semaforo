@@ -1,2 +1,2 @@
 # semaforo
-Semaforo simples feito com kotlin puro
+kotlin.Semaforo simples feito com kotlin puro
